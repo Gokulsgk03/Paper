@@ -1,5 +1,15 @@
 {
     "plag_reduction_price": 100,
     "thesis_writing_price": 500,
-    "patent_writing_price": 300
+    "patent_writing_price": 300,
+    "discounts": {
+        "special_day_discount": {
+            "active": true,
+            "percent": 10
+        },
+        "weekend_offer": {
+            "active": true,
+            "percent": 15
+        }
+    }
 }
