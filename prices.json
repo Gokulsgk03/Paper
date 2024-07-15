@@ -4,12 +4,12 @@
     "patent_writing_price": 300,
     "discounts": {
         "plag_reduction_discount": {
-            "active": false,
-            "percent": 0
+            "active": true,
+            "percent": 35
         },
         "thesis_writing_discount": {
-            "active": false,
-            "percent": 0
+            "active": true,
+            "percent": 90
         },
         "patent_writing_discount": {
             "active": false,
