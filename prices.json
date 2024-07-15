@@ -3,13 +3,17 @@
     "thesis_writing_price": 500,
     "patent_writing_price": 300,
     "discounts": {
-        "special_day_discount": {
-            "active": true,
-            "percent": 10
+        "plag_reduction_discount": {
+            "active": false,
+            "percent": 0
         },
-        "weekend_offer": {
-            "active": true,
-            "percent": 15
+        "thesis_writing_discount": {
+            "active": false,
+            "percent": 0
+        },
+        "patent_writing_discount": {
+            "active": false,
+            "percent": 0
         }
     }
 }
