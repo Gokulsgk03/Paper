@@ -15,11 +15,11 @@
     "discounts": {
         "plag_reduction_discount": {
             "active": false,
-            "percent": 35
+            "percent": 0
         },
         "thesis_writing_discount": {
-            "active": true,
-            "percent": 90
+            "active": false,
+            "percent": 0
         },
         "patent_writing_discount": {
             "active": false,
@@ -27,19 +27,19 @@
         },
         "plag_checker_discount": {
             "active": false,
-            "percent": 20
+            "percent": 0
         },
         "research_paper_writing_discount": {
-            "active": true,
+            "active": false,
             "percent": 15
         },
         "book_chapter_writing_discount": {
             "active": false,
-            "percent": 10
+            "percent": 0
         },
         "phd_work_with_thesis_discount": {
             "active": false,
-            "percent": 25
+            "percent": 0
         },
         "project_report_making_discount": {
             "active": false,
@@ -47,7 +47,7 @@
         },
         "presentation_making_discount": {
             "active": false,
-            "percent": 30
+            "percent": 0
         },
         "project_video_making_discount": {
             "active": false,
@@ -55,11 +55,11 @@
         },
         "paper_correction_discount": {
             "active": false,
-            "percent": 50
+            "percent": 0
         },
         "business_pitch_maker_discount": {
             "active": false,
-            "percent": 20
+            "percent": 0
         }
     }
 }
