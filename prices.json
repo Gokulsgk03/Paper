@@ -10,6 +10,8 @@
     "presentation_making_price": 100,
     "project_video_making_price": 250,
     "paper_correction_price": 150,
+    "business_pitch_maker_price": 300,
+    
     "discounts": {
         "plag_reduction_discount": {
             "active": true,
@@ -54,6 +56,10 @@
         "paper_correction_discount": {
             "active": true,
             "percent": 50
+        },
+        "business_pitch_maker_discount": {
+            "active": true,
+            "percent": 20
         }
     }
 }
