@@ -14,8 +14,8 @@
     
     "discounts": {
         "plag_reduction_discount": {
-            "active": false,
-            "percent": 0
+            "active": true,
+            "percent": 20
         },
         "thesis_writing_discount": {
             "active": false,
