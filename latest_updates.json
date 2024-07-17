@@ -1,12 +1,12 @@
 {
   "updates": [
     {
-      "image_url": "https://drive.google.com/uc?id=1xOQU7cBb-F5UVUWPvLPytbJvLJRV21FN",
-      "description": "Indha app achum success agum ah da pls success aganum"
+      "image_url": "https://drive.google.com/uc?export=view&id=1xOQU7cBb-F5UVUWPvLPytbJvLJRV21FN",
+      "description": "First update description."
     },
     {
-      "image_url": "https://drive.google.com/uc?id=1xOQU7cBb-F5UVUWPvLPytbJvLJRV21FN",
-      "description": "Description for the second update."
+      "image_url": "https://drive.google.com/uc?export=view&id=1xOQU7cBb-F5UVUWPvLPytbJvLJRV21FN",
+      "description": "Second update description."
     }
   ]
 }
