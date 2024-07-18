@@ -2,11 +2,13 @@
     {
         "title": "Research on AI",
         "abstractText": "This research explores the applications of AI in various fields...",
-        "link": "https://example.com/research-on-ai"
+        "link": "https://www.youtube.com/",
+        "image": "https://example.com/images/research-on-ai.jpg"
     },
     {
         "title": "Advancements in Machine Learning",
         "abstractText": "Machine Learning has seen significant advancements in recent years...",
-        "link": "https://example.com/advancements-in-ml"
+        "link": "https://www.youtube.com/",
+        "image": "https://example.com/images/advancements-in-ml.jpg"
     }
 ]
