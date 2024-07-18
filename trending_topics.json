@@ -2,15 +2,15 @@
   "trending_topics": [
     {
       "topic": "Artificial Intelligence",
-      "keywords": ["#Machine Learning", "#Neural Networks", "#Deep Learning"]
-    },
-    {
-      "topic": "Climate Change",
-      "keywords": ["#Global Warming", "#Renewable Energy", "#Sustainability"]
-    },
-    {
-      "topic": "COVID-19 Pandemic",
-      "keywords": ["#Vaccines", "#Epidemiology", "#Public Health"]
+      "keywords": ["Machine Learning", "Neural Networks", "Deep Learning"],
+      "introduction": "Artificial Intelligence (AI) is the simulation of human intelligence in machines...",
+      "keyAreas": "1. Machine Learning: ...\n2. Neural Networks: ...\n3. Deep Learning: ...",
+      "applications": "1. Healthcare: ...\n2. Autonomous Vehicles: ...\n3. Finance: ...",
+      "currentTrends": "1. AI in 2024: ...\n2. Emerging technologies: ...",
+      "challenges": "1. Bias and fairness: ...\n2. Privacy concerns: ...",
+      "resources": "1. Online courses: ...\n2. Books: ...",
+      "relatedLinks": "1. [Video on AI](https://example.com)\n2. [Article on AI](https://example.com)",
+      "future": "1. Predictions for the next decade: ...\n2. Potential societal impacts: ..."
     }
     // Add more topics as needed
   ]
