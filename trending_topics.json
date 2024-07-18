@@ -2,16 +2,18 @@
   "trending_topics": [
     {
       "topic": "Artificial Intelligence",
-      "keywords": ["#Machine Learning", "#Neural Networks", "#Deep Learning"]
+      "keywords": ["#Machine Learning", "#Neural Networks", "#Deep Learning"],
+      "link": "https://chatgpt.com/c/f6346722-96ac-48c9-b09d-c76d5e7cce49"
     },
     {
       "topic": "Climate Change",
-      "keywords": ["#Global Warming", "#Renewable Energy", "#Sustainability"]
+      "keywords": ["#Global Warming", "#Renewable Energy", "#Sustainability"],
+      "link": "https://www.example.com/climate-change-papers"
     },
     {
       "topic": "COVID-19 Pandemic",
-      "keywords": ["#Vaccines", "#Epidemiology", "#Public Health"]
+      "keywords": ["#Vaccines", "#Epidemiology", "#Public Health"],
+      "link": "https://www.example.com/covid-19-papers"
     }
-    // Add more topics as needed
   ]
 }
