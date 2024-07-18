@@ -6,11 +6,11 @@
     },
     {
       "topic": "Climate Change",
-      "keywords": ["Global Warming", "Renewable Energy", "Sustainability"]
+      "keywords": ["#Global Warming", "#Renewable Energy", "#Sustainability"]
     },
     {
       "topic": "COVID-19 Pandemic",
-      "keywords": ["Vaccines", "Epidemiology", "Public Health"]
+      "keywords": ["#Vaccines", "#Epidemiology", "#Public Health"]
     }
     // Add more topics as needed
   ]
