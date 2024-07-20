@@ -1,5 +1,5 @@
 {
-    "plag_reduction_price": {
+    "plag_reduction_price":100{
         "up_to_30_pages": 100,
         "31_to_60_pages": 150,
         "more_than_60_pages": 200
