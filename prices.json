@@ -1,17 +1,44 @@
 {
-    "plag_reduction_price": 100,
-    "thesis_writing_price": 200,
+    "plag_reduction_price": {
+        "up_to_30_pages": 100,
+        "31_to_60_pages": 150,
+        "more_than_60_pages": 200
+    },
+    "thesis_writing_price": {
+        "up_to_50_pages": 200,
+        "51_to_100_pages": 350,
+        "more_than_100_pages": 500
+    },
     "patent_writing_price": 300,
     "plag_checker_price": 150,
-    "research_paper_writing_price": 400,
-    "book_chapter_writing_price": 350,
+    "research_paper_writing_price": {
+        "up_to_10_pages": 400,
+        "11_to_20_pages": 500,
+        "more_than_20_pages": 600
+    },
+    "book_chapter_writing_price": {
+        "per_chapter_up_to_20_pages": 350,
+        "additional_chapters": 250
+    },
     "phd_work_with_thesis_price": 1000,
-    "project_report_making_price": 200,
+    "project_report_making_price": {
+        "up_to_20_pages": 200,
+        "21_to_40_pages": 300,
+        "more_than_40_pages": 400
+    },
     "presentation_making_price": 100,
-    "project_video_making_price": 250,
-    "paper_correction_price": 150,
+    "project_video_making_price": {
+        "up_to_5_minutes": 250,
+        "6_to_10_minutes": 350,
+        "more_than_10_minutes": 450
+    },
+    "paper_correction_price": {
+        "up_to_15_pages": 150,
+        "16_to_30_pages": 200,
+        "more_than_30_pages": 250
+    },
     "business_pitch_maker_price": 300,
-    
+
     "discounts": {
         "plag_reduction_discount": {
             "active": true,
@@ -30,7 +57,7 @@
             "percent": 0
         },
         "research_paper_writing_discount": {
-            "active": false,
+            "active": true,
             "percent": 15
         },
         "book_chapter_writing_discount": {
