@@ -1,0 +1,12 @@
+{
+    "pricing": [
+        {
+            "max_pages": 20,
+            "price": 200
+        },
+        {
+            "max_pages": -1,  // -1 indicates no upper limit
+            "price": 280
+        }
+    ]
+}
