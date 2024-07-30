@@ -3,17 +3,102 @@
     {
       "topic": "Artificial Intelligence",
       "keywords": ["#Machine Learning", "#Neural Networks", "#Deep Learning"],
-      "link": "https://chatgpt.com/c/f6346722-96ac-48c9-b09d-c76d5e7cce49"
+      "link": "https://www.jair.org/index.php/jair"
     },
     {
       "topic": "Climate Change",
       "keywords": ["#Global Warming", "#Renewable Energy", "#Sustainability"],
-      "link": "https://www.example.com/climate-change-papers"
+      "link": "https://www.nature.com/subjects/climate-change/srep"
     },
     {
       "topic": "COVID-19 Pandemic",
       "keywords": ["#Vaccines", "#Epidemiology", "#Public Health"],
-      "link": "https://www.example.com/covid-19-papers"
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10244837/"
+    },
+    {
+      "topic": "Blockchain Technology",
+      "keywords": ["#Cryptocurrency", "#Smart Contracts", "#Decentralization"],
+      "link": "https://blockchainjournal.org/"
+    },
+    {
+      "topic": "Cybersecurity",
+      "keywords": ["#Data Protection", "#Hacking", "#Network Security"],
+      "link": "https://www.cybersecurityjournal.com/"
+    },
+    {
+      "topic": "Quantum Computing",
+      "keywords": ["#Quantum Mechanics", "#Qubits", "#Quantum Algorithms"],
+      "link": "https://quantum-journal.org/"
+    },
+    {
+      "topic": "Biotechnology",
+      "keywords": ["#Genetic Engineering", "#CRISPR", "#Biopharmaceuticals"],
+      "link": "https://www.biotechnology-journal.com/"
+    },
+    {
+      "topic": "Space Exploration",
+      "keywords": ["#Mars Mission", "#SpaceX", "#Astrobiology"],
+      "link": "https://www.sciencedirect.com/journal/space-exploration"
+    },
+    {
+      "topic": "Renewable Energy",
+      "keywords": ["#Solar Power", "#Wind Energy", "#Hydroelectricity"],
+      "link": "https://www.renewableenergyworld.com/"
+    },
+    {
+      "topic": "Smart Cities",
+      "keywords": ["#Urban Planning", "#IoT", "#Sustainable Development"],
+      "link": "https://www.smartcitiesdive.com/"
+    },
+    {
+      "topic": "E-commerce",
+      "keywords": ["#Online Shopping", "#Digital Marketing", "#Payment Systems"],
+      "link": "https://www.journals.elsevier.com/electronic-commerce-research-and-applications"
+    },
+    {
+      "topic": "Digital Transformation",
+      "keywords": ["#Industry 4.0", "#Cloud Computing", "#Automation"],
+      "link": "https://www.springer.com/journal/12525"
+    },
+    {
+      "topic": "Healthcare Innovation",
+      "keywords": ["#Telemedicine", "#Health Tech", "#Personalized Medicine"],
+      "link": "https://www.journalofhealthcareinnovation.com/"
+    },
+    {
+      "topic": "5G Technology",
+      "keywords": ["#Wireless Networks", "#IoT", "#Telecommunications"],
+      "link": "https://www.journals.elsevier.com/5g-technology-and-its-applications"
+    },
+    {
+      "topic": "Financial Technology (FinTech)",
+      "keywords": ["#Digital Payments", "#Blockchain", "#Robo-Advisors"],
+      "link": "https://www.sciencedirect.com/journal/financial-technology"
+    },
+    {
+      "topic": "Virtual Reality and Augmented Reality",
+      "keywords": ["#VR", "#AR", "#Immersive Experience"],
+      "link": "https://www.journalofvrar.com/"
+    },
+    {
+      "topic": "Robotics",
+      "keywords": ["#Automation", "#Robotic Process Automation", "#AI Robotics"],
+      "link": "https://www.journals.elsevier.com/robotics-and-autonomous-systems"
+    },
+    {
+      "topic": "Autonomous Vehicles",
+      "keywords": ["#Self-driving Cars", "#ADAS", "#Vehicle-to-Everything (V2X)"],
+      "link": "https://www.journals.elsevier.com/vehicular-communications"
+    },
+    {
+      "topic": "Internet of Things (IoT)",
+      "keywords": ["#Connected Devices", "#Smart Homes", "#Wearables"],
+      "link": "https://www.journals.elsevier.com/internet-of-things"
+    },
+    {
+      "topic": "Mental Health Awareness",
+      "keywords": ["#Depression", "#Anxiety", "#Mental Well-being"],
+      "link": "https://www.mentalhealthjournal.org/"
     }
   ]
 }
