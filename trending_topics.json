@@ -18,27 +18,27 @@
     {
       "topic": "Blockchain Technology",
       "keywords": ["#Cryptocurrency", "#Smart Contracts", "#Decentralization"],
-      "link": "https://blockchainjournal.org/"
+      "link": "https://www.diva-portal.org/smash/get/diva2:1365314/FULLTEXT01.pdf"
     },
     {
       "topic": "Cybersecurity",
       "keywords": ["#Data Protection", "#Hacking", "#Network Security"],
-      "link": "https://www.cybersecurityjournal.com/"
+      "link": "https://academic.oup.com/cybersecurity/article/10/1/tyae013/7723878?searchresult=1"
     },
     {
       "topic": "Quantum Computing",
       "keywords": ["#Quantum Mechanics", "#Qubits", "#Quantum Algorithms"],
-      "link": "https://quantum-journal.org/"
+      "link": "hhttps://www.techscience.com/journal/jqc"
     },
     {
       "topic": "Biotechnology",
       "keywords": ["#Genetic Engineering", "#CRISPR", "#Biopharmaceuticals"],
-      "link": "https://www.biotechnology-journal.com/"
+      "link": "https://www.sciencedirect.com/journal/journal-of-biotechnology"
     },
     {
       "topic": "Space Exploration",
       "keywords": ["#Mars Mission", "#SpaceX", "#Astrobiology"],
-      "link": "https://www.sciencedirect.com/journal/space-exploration"
+      "link": "https://www.tsijournals.com/journals/journal-of-space-exploration.html"
     },
     {
       "topic": "Renewable Energy",
@@ -48,57 +48,28 @@
     {
       "topic": "Smart Cities",
       "keywords": ["#Urban Planning", "#IoT", "#Sustainable Development"],
-      "link": "https://www.smartcitiesdive.com/"
+      "link": "https://www.mdpi.com/2624-6511/6/4/80"
     },
     {
       "topic": "E-commerce",
       "keywords": ["#Online Shopping", "#Digital Marketing", "#Payment Systems"],
-      "link": "https://www.journals.elsevier.com/electronic-commerce-research-and-applications"
+      "link": "https://www.researchgate.net/publication/376397568_A_review_paper_on_e-commerce"
     },
     {
       "topic": "Digital Transformation",
       "keywords": ["#Industry 4.0", "#Cloud Computing", "#Automation"],
-      "link": "https://www.springer.com/journal/12525"
+      "link": "https://www.sciencedirect.com/science/article/pii/S0268401221001596"
     },
     {
       "topic": "Healthcare Innovation",
       "keywords": ["#Telemedicine", "#Health Tech", "#Personalized Medicine"],
-      "link": "https://www.journalofhealthcareinnovation.com/"
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6502619/"
     },
-    {
-      "topic": "5G Technology",
-      "keywords": ["#Wireless Networks", "#IoT", "#Telecommunications"],
-      "link": "https://www.journals.elsevier.com/5g-technology-and-its-applications"
-    },
+   
     {
       "topic": "Financial Technology (FinTech)",
       "keywords": ["#Digital Payments", "#Blockchain", "#Robo-Advisors"],
-      "link": "https://www.sciencedirect.com/journal/financial-technology"
-    },
-    {
-      "topic": "Virtual Reality and Augmented Reality",
-      "keywords": ["#VR", "#AR", "#Immersive Experience"],
-      "link": "https://www.journalofvrar.com/"
-    },
-    {
-      "topic": "Robotics",
-      "keywords": ["#Automation", "#Robotic Process Automation", "#AI Robotics"],
-      "link": "https://www.journals.elsevier.com/robotics-and-autonomous-systems"
-    },
-    {
-      "topic": "Autonomous Vehicles",
-      "keywords": ["#Self-driving Cars", "#ADAS", "#Vehicle-to-Everything (V2X)"],
-      "link": "https://www.journals.elsevier.com/vehicular-communications"
-    },
-    {
-      "topic": "Internet of Things (IoT)",
-      "keywords": ["#Connected Devices", "#Smart Homes", "#Wearables"],
-      "link": "https://www.journals.elsevier.com/internet-of-things"
-    },
-    {
-      "topic": "Mental Health Awareness",
-      "keywords": ["#Depression", "#Anxiety", "#Mental Well-being"],
-      "link": "https://www.mentalhealthjournal.org/"
+      "link": "https://jfin-swufe.springeropen.com/articles/10.1186/s40854-021-00285-7"
     }
   ]
 }
