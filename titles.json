@@ -1,14 +1,120 @@
 [
     {
-        "title": "Research on AI",
-        "abstractText": "This research explores the applications of AI in various fields...",
+        "title": "Blockchain-Enhanced Machine Learning: Securing Data Integrity and Privacy",
+        "abstractText": "This paper explores the integration of blockchain technology with machine learning (ML) to secure data integrity and privacy. By leveraging blockchain's decentralized ledger and ML's data analytics capabilities, we propose a system that ensures transparent, tamper-proof data processing. The approach is validated through experiments in healthcare and finance, demonstrating significant improvements in security and efficiency.",
         "link": "https://www.youtube.com/",
         "image": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/Deep%20Generative%20Models%20for%20Integrative%20Analysis%20of%20Alzheimer's%20Biomarkers%20(2).png"
     },
     {
-        "title": "Advancements in Machine Learning",
-        "abstractText": "Machine Learning has seen significant advancements in recent years...",
+        "title": "Decentralized Machine Learning: Leveraging Blockchain for Secure and Scalable AI",
+        "abstractText": "We investigate the application of blockchain in decentralized machine learning frameworks to enhance security and scalability. The proposed model addresses data privacy concerns and computational overhead by distributing data across blockchain networks. The study showcases practical implementations in IoT and smart cities, highlighting the benefits of decentralized learning.",
         "link": "https://www.youtube.com/",
         "image": "https://example.com/images/advancements-in-ml.jpg"
+    },
+
+     {
+        "title": "Blockchain for Trustworthy AI: Enhancing Model Transparency and Accountability",
+        "abstractText": "This research examines how blockchain can be used to ensure transparency and accountability in AI models. We propose a blockchain-based framework that records model training processes and decision-making paths, making AI systems more interpretable and trustworthy. Case studies in predictive analytics and decision support systems are presented.",
+        "link": "https://www.youtube.com/",
+        "image": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/Deep%20Generative%20Models%20for%20Integrative%20Analysis%20of%20Alzheimer's%20Biomarkers%20(2).png"
+    },
+
+    {
+        "title": "Combining Blockchain and Federated Learning for Secure Data Collaboration",
+        "abstractText": "This paper presents a novel approach combining blockchain and federated learning to enable secure data collaboration without compromising privacy. The blockchain ensures secure transactions of model updates, while federated learning allows decentralized model training. The effectiveness of this approach is demonstrated in healthcare data sharing scenarios.",
+        "link": "https://www.youtube.com/",
+        "image": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/Deep%20Generative%20Models%20for%20Integrative%20Analysis%20of%20Alzheimer's%20Biomarkers%20(2).png"
+    },
+
+    {
+        "title": "Blockchain-Based Data Provenance for Machine Learning Models",
+        "abstractText": "We explore the use of blockchain for data provenance in machine learning models. By recording data sources and transformations on a blockchain, we enhance the traceability and reliability of ML models. The proposed method is tested in financial applications, showing improved accuracy and trustworthiness of predictive models.",
+        "link": "https://www.youtube.com/",
+        "image": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/Deep%20Generative%20Models%20for%20Integrative%20Analysis%20of%20Alzheimer's%20Biomarkers%20(2).png"
+    },
+
+    {
+        "title": "Smart Contracts and Machine Learning: Automating Trust in Decentralized Systems",
+        "abstractText": "This study presents a blockchain-based framework to enhance the ethics of AI by ensuring fair and transparent machine learning practices. We discuss how blockchain can help track data usage and algorithmic decisions, promoting accountability. The framework is tested in bias-sensitive applications, such as hiring and loan approvals.",
+        "link": "https://www.youtube.com/",
+        "image": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/Deep%20Generative%20Models%20for%20Integrative%20Analysis%20of%20Alzheimer's%20Biomarkers%20(2).png"
+    },
+
+    {
+        "title": "Enhancing AI Ethics with Blockchain: A Framework for Fair and Transparent Machine Learning",
+        "abstractText": "This research examines how blockchain can be used to ensure transparency and accountability in AI models. We propose a blockchain-based framework that records model training processes and decision-making paths, making AI systems more interpretable and trustworthy. Case studies in predictive analytics and decision support systems are presented.",
+        "link": "https://www.youtube.com/",
+        "image": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/Deep%20Generative%20Models%20for%20Integrative%20Analysis%20of%20Alzheimer's%20Biomarkers%20(2).png"
+    },
+
+      {
+        "title": "Blockchain-Driven Data Anonymization for Privacy-Preserving Machine Learning",
+        "abstractText": "This paper explores a blockchain-driven approach to data anonymization for privacy-preserving machine learning. By leveraging blockchain's secure infrastructure, we ensure that sensitive data remains protected during ML model training. The method is applied to healthcare datasets, demonstrating its effectiveness in maintaining patient confidentiality.",
+        "link": "https://www.youtube.com/",
+        "image": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/Deep%20Generative%20Models%20for%20Integrative%20Analysis%20of%20Alzheimer's%20Biomarkers%20(2).png"
+    },
+
+     {
+        "title": "Blockchain and AI in Biotechnology: Enhancing Data Security and Analytical Accuracy",
+        "abstractText": "TThis paper explores the integration of blockchain and artificial intelligence (AI) in biotechnology, focusing on data security and analytical accuracy. We propose a blockchain-based framework for securely storing and sharing sensitive biological data, coupled with AI algorithms for enhanced data analysis. Applications in genomic research and personalized medicine are discussed.",
+        "link": "https://www.youtube.com/",
+        "image": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/Deep%20Generative%20Models%20for%20Integrative%20Analysis%20of%20Alzheimer's%20Biomarkers%20(2).png"
+    },
+
+     {
+        "title": "Blockchain-Enabled Genomic Data Privacy in Biotech: A Machine Learning Perspective",
+        "abstractText": "This study presents a blockchain-enabled framework to enhance genomic data privacy in biotechnology. By using blockchain to secure genomic data and machine learning for data analysis, we address privacy concerns while enabling advanced research. The framework's efficacy is tested on genomic datasets, highlighting improved security and data utility.",
+        "link": "https://www.youtube.com/",
+        "image": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/Deep%20Generative%20Models%20for%20Integrative%20Analysis%20of%20Alzheimer's%20Biomarkers%20(2).png"
+    },
+
+     {
+        "title": "Integrating Blockchain with CRISPR Data Management: A Machine Learning Approach",
+        "abstractText": "We propose a novel integration of blockchain technology with CRISPR data management, enhanced by machine learning algorithms. The blockchain ensures secure and transparent data storage, while ML aids in analyzing genetic modifications. The system's application in gene editing projects demonstrates its effectiveness in managing sensitive data.",
+        "link": "https://www.youtube.com/",
+        "image": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/Deep%20Generative%20Models%20for%20Integrative%20Analysis%20of%20Alzheimer's%20Biomarkers%20(2).png"
+    },
+
+     {
+        "title": "Smart Contracts and ML in Biotech: Automating Regulatory Compliance",
+        "abstractText": "This paper explores the use of smart contracts and machine learning to automate regulatory compliance in biotechnology. We propose a blockchain-based system that uses smart contracts to enforce compliance rules and ML for monitoring and predicting regulatory outcomes. Applications in clinical trials and drug development are discussed.",
+        "link": "https://www.youtube.com/",
+        "image": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/Deep%20Generative%20Models%20for%20Integrative%20Analysis%20of%20Alzheimer's%20Biomarkers%20(2).png"
+    },
+
+     {
+        "title": "Blockchain and Machine Learning for Secure Biopharmaceutical Supply Chains",
+        "abstractText": "We investigate the application of blockchain and machine learning technologies to enhance the security and efficiency of biopharmaceutical supply chains. Blockchain ensures traceability and transparency, while ML algorithms optimize supply chain logistics. The system's effectiveness is validated through case studies in vaccine distribution.",
+        "link": "https://www.youtube.com/",
+        "image": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/Deep%20Generative%20Models%20for%20Integrative%20Analysis%20of%20Alzheimer's%20Biomarkers%20(2).png"
+    },
+
+     {
+        "title": "Blockchain-Based Biomedical Data Sharing: A Machine Learning-Enhanced Framework",
+        "abstractText": "This paper presents a blockchain-based framework for secure biomedical data sharing, enhanced with machine learning analytics. The blockchain ensures data integrity and access control, while ML extracts valuable insights from shared data. The framework's application in collaborative research initiatives showcases its potential to accelerate biomedical discoveries.",
+        "link": "https://www.youtube.com/",
+        "image": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/Deep%20Generative%20Models%20for%20Integrative%20Analysis%20of%20Alzheimer's%20Biomarkers%20(2).png"
+    },
+
+     {
+        "title": "Secure and Transparent Clinical Trials: Leveraging Blockchain and Machine Learning",
+        "abstractText": "We explore the integration of blockchain and machine learning to enhance the security and transparency of clinical trials. The proposed system uses blockchain for secure patient data management and ML for predictive analysis of trial outcomes. Case studies demonstrate improvements in patient trust and data reliability.",
+        "link": "https://www.youtube.com/",
+        "image": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/Deep%20Generative%20Models%20for%20Integrative%20Analysis%20of%20Alzheimer's%20Biomarkers%20(2).png"
+    },
+
+     {
+        "title": "Blockchain-Enabled Predictive Modeling in Biotechnology: A Machine Learning Approach",
+        "abstractText": "This study investigates the use of blockchain to enhance predictive modeling in biotechnology through machine learning. Blockchain provides a secure and transparent platform for data collection, while ML models predict biological outcomes. The system is tested in drug discovery, highlighting its potential to accelerate the development of new therapies.",
+        "link": "https://www.youtube.com/",
+        "image": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/Deep%20Generative%20Models%20for%20Integrative%20Analysis%20of%20Alzheimer's%20Biomarkers%20(2).png"
+    },
+
+     {
+        "title": "Ethical Data Management in Biotech: A Blockchain and AI Approach",
+        "abstractText": "We propose a blockchain and AI-based framework for ethical data management in biotechnology. The system ensures secure and transparent handling of sensitive biological data, with AI algorithms providing advanced analytics. Applications in ethical genomic research and patient data privacy are discussed, emphasizing the framework's role in promoting responsible biotech practices.",
+        "link": "https://www.youtube.com/",
+        "image": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/Deep%20Generative%20Models%20for%20Integrative%20Analysis%20of%20Alzheimer's%20Biomarkers%20(2).png"
     }
+    
 ]
