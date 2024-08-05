@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Medical Imaging Dataset",
+    "description": "A collection of medical images for various diagnoses.",
+    "link": "https://example.com/medical-imaging-dataset"
+  },
+  {
+    "title": "Climate Data",
+    "description": "Historical climate data from various regions.",
+    "link": "https://example.com/climate-data"
+  },
+  {
+    "title": "Traffic Accidents Dataset",
+    "description": "Data on traffic accidents and incidents.",
+    "link": "https://example.com/traffic-accidents"
+  }
+]
