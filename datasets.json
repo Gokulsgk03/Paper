@@ -2,16 +2,19 @@
   {
     "title": "Medical Imaging Dataset",
     "description": "A collection of medical images for various diagnoses.",
-    "link": "https://example.com/medical-imaging-dataset"
+    "link": "https://example.com/medical-imaging-dataset",
+    "image": "https://example.com/images/medical-imaging-dataset.jpg"
   },
   {
     "title": "Climate Data",
     "description": "Historical climate data from various regions.",
-    "link": "https://example.com/climate-data"
+    "link": "https://example.com/climate-data",
+    "image": "https://example.com/images/climate-data.jpg"
   },
   {
     "title": "Traffic Accidents Dataset",
     "description": "Data on traffic accidents and incidents.",
-    "link": "https://example.com/traffic-accidents"
+    "link": "https://example.com/traffic-accidents",
+    "image": "https://example.com/images/traffic-accidents.jpg"
   }
 ]
