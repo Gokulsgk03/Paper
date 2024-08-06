@@ -3,14 +3,14 @@
         "title": "Research Paper 1",
         "description": "Description of Paper 1",
         "imageURL": "https://example.com/image1.jpg",
-        "pdfURL": "https://github.com/username/repository/raw/main/papers/document1.pdf",
+        "pdfURL": "https://github.com/Gokulsgk03/Paper/blob/main/Store/Comprehensive%20Survey%20on%20Face%20Spoof%20Detection%20Techniques.docx.pdf",
         "price": "200"
     },
     {
         "title": "Research Paper 2",
         "description": "Description of Paper 2",
         "imageURL": "https://example.com/image2.jpg",
-        "pdfURL": "https://github.com/username/repository/raw/main/papers/document2.pdf",
+        "pdfURL": "https://github.com/Gokulsgk03/Paper/blob/main/Store/Comprehensive%20Survey%20on%20Face%20Spoof%20Detection%20Techniques.docx.pdf",
         "price": "250"
     }
 ]
