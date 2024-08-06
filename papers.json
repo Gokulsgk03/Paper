@@ -2,14 +2,14 @@
     {
         "title": "Research Paper 1",
         "description": "Description of Paper 1",
-        "imageURL": "https://example.com/image1.jpg",
+        "imageURL": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/Deep%20Generative%20Models%20for%20Integrative%20Analysis%20of%20Alzheimer's%20Biomarkers%20(2).png",
         "pdfURL": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Store/Comprehensive%20Survey%20on%20Face%20Spoof%20Detection%20Techniques.docx.pdf",
         "price": "200"
     },
     {
         "title": "Research Paper 2",
         "description": "Description of Paper 2",
-        "imageURL": "https://example.com/image2.jpg",
+        "imageURL": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/Deep%20Generative%20Models%20for%20Integrative%20Analysis%20of%20Alzheimer's%20Biomarkers%20(2).png",
         "pdfURL": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Store/Comprehensive%20Survey%20on%20Face%20Spoof%20Detection%20Techniques.docx.pdf",
         "price": "250"
     }
