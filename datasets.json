@@ -1,17 +1,156 @@
 [
   {
     "title": "Medical Imaging Dataset",
-    "description": "A collection of medical images for various diagnoses.",
-    "link": "https://example.com/medical-imaging-dataset"
+    "description": "The dataset is designed to allow for different methods to be tested for examining the trends in CT image data associated with using contrast and patient age.",
+    "link": "https://www.kaggle.com/datasets/kmader/siim-medical-images"
   },
   {
     "title": "Climate Data",
-    "description": "Historical climate data from various regions.",
-    "link": "https://example.com/climate-data"
+    "description": "Given this complexity, there are a range of organizations that collate climate trends data. The three most cited land and ocean temperature data sets are NOAA’s MLOST, NASA’s GISTEMP and the UK’s HadCrut.",
+    "link": "https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data"
   },
   {
-    "title": "Traffic Accidents Dataset",
+    "title": "World Bank Climate Change Data",
+    "description": "This is a dataset hosted by the World Bank. The organization has an open data platform found here and they update their information according the amount of data that is brought in. Explore the World Bank using Kaggle and all of the data sources available through the World Bank organization page!",
+    "link": "https://www.kaggle.com/datasets/theworldbank/world-bank-climate-change-data"
+  },
+  {
+    "title": "Climate Data Daily IDN",
     "description": "Data on traffic accidents and incidents.",
-    "link": "https://example.com/traffic-accidents"
+    "link": "https://www.kaggle.com/datasets/greegtitan/indonesia-climate"
+  },
+   {
+    "title": "NASA Data",
+    "description": "NASA Datasets about space.",
+    "link": "https://www.kaggle.com/datasets/brsdincer/ocean-data-climate-change-nasa"
+  },
+  {
+    "title": "Water-Energy-Food-Land-Climate Nexus data",
+    "description": "This contains the huge nexus data about the water,energy,food,land and climate.",
+    "link": "https://www.kaggle.com/datasets/jocelyndumlao/water-energy-food-land-climate-nexus-data"
+  },
+   {
+    "title": "Paris Olympics 2024 Games Dataset (updated daily)"
+    "description": "Updated daily as soon as updated are received from Olympics",
+    "link": "https://www.kaggle.com/datasets/sajkazmi/paris-olympics-2024-games-dataset-updated-daily"
+  },
+  {
+    "title": "Heart Disease Prediction"
+    "description": "The data includes various attributes such as age, sex, chest pain type (cp), resting blood pressure (trestbps), cholesterol (chol), fasting blood sugar (fbs), resting electrocardiographic results (restecg), maximum heart rate achieved (thalach), exercise-induced angina (exang), and ST depression induced by exercise relative to rest (oldpeak).",
+    "link": "https://www.kaggle.com/datasets/krishujeniya/heart-diseae"
+  },
+   {
+    "title": "Global Electric Vehicle Sales Data (2010-2024)"
+    "description": "Electric vehicles (EVs) have seen a remarkable evolution from their early innovations to their current status as a pivotal element in the transportation industry. This document explores the rich history of electric vehicles, focusing on their development through various periods, and provides an overview of the different types of EVs available today.",
+    "link": "https://www.kaggle.com/datasets/muhammadehsan000/global-electric-vehicle-sales-data-2010-2024"
+  },
+  {
+    "title": "Stanford Question Answering Dataset
+    "description": "The Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset consisting of questions posed by crowdworkers on a set of Wikipedia articles. The answer to every question is a segment of text, or span, from the corresponding reading passage. There are 100,000+ question-answer pairs on 500+ articles.",
+    "link": "https://www.kaggle.com/datasets/stanfordu/stanford-question-answering-dataset"
+  },
+  {
+    "title": "Covid-19 Image Dataset",
+    "description": "Helping Deep Learning and AI Enthusiasts like me to contribute to improving COVID-19 detection using just Chest X-rays.",
+    "link": "https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset"
+  },
+  {
+    "title": "Sentimental analysis - Movie review",
+    "description": "This dataset "Kalki 2898 AD" contains comments and ratings of various viewers who enjoyed the movie in recent times.",
+    "link": "https://www.kaggle.com/datasets/sudarsan27/sentimental-analysis-movie-review"
+  },
+  {
+    "title": "IMDb Summer Movies Data",
+    "description": "This dataset includes information on movies released during the summer months, typically regarded as the peak season for blockbuster films. The data has been sourced from IMDb, featuring key details such as movie titles, release dates, genres, directors, cast, and IMDb ratings.",
+    "link": "https://www.kaggle.com/datasets/umerhaddii/imdb-summer-movies-data"
+  },
+   {
+    "title": "Dataset for chatbot",
+    "description": "I tried to find the simple dataset for a chat bot (seq2seq). Then I decided to compose it myself. It is based on a website with simple dialogues for beginners.",
+    "link": "https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot"
+  },
+  {
+    "title": "Shopping Mall Customer Data Segmentation Analysis",
+    "description": "The Shopping Mall Customer Segmentation Dataset comprises 15,079 unique entries, featuring Customer ID, age, gender, annual income, and spending score. This dataset assists in understanding customer behavior for strategic marketing planning.",
+    "link": "https://www.kaggle.com/datasets/datazng/shopping-mall-customer-data-segmentation-analysis"
+  },
+   {
+    "title": "Most Streamed Spotify Songs 2024",
+    "description": "This dataset presents a comprehensive compilation of the most streamed songs on Spotify in 2024. It provides extensive insights into each track's attributes, popularity, and presence on various music platforms, offering a valuable resource for music analysts, enthusiasts, and industry professionals.",
+    "link": "https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024"
+  },
+
+  {
+    "title": "Predicting House Prices with Machine Learning",
+    "description": "This project aims to forecast real estate prices using various machine learning regression algorithms, including Linear Regression, Gradient Boosting Regression, Random Forest Regression, and XGBoost Regression. The dataset comprises multiple features such as the date of sale, price, number of bedrooms and bathrooms, square footage, and property conditions.",
+    "link": "https://www.kaggle.com/datasets/armanmanteghi/predicting-house-prices-with-machine-learning"
+  },
+   {
+    "title": "Car Camera Photos",
+    "description": "This dataset is output photos of the camera installed on the car in different positions. Frames of videos is provided for object Detection task for Self-Driving cars.",
+    "link": "https://www.kaggle.com/datasets/mbsoroush/car-camera-photos"
+  },
+   {
+    "title": "Olympic Games (1994-2024)",
+    "description": "This database contains comprehensive data on the medals awarded at the Olympic Games from 1994 to 2024. Each table within the database represents the medal counts for a specific Olympic Games, categorized by the participating countries.",
+    "link": "https://www.kaggle.com/datasets/youssefismail20/olympic-games-1994-2024"
+  },
+  {
+    "title": "❤️ Heart Attack Risk Factors Dataset",
+    "description": "This dataset provides a comprehensive overview of various factors associated with heart attack risks. It includes detailed information on patients' medical history, lifestyle habits, and physiological measurements.",
+    "link": "https://www.kaggle.com/datasets/waqi786/heart-attack-dataset"
+  },
+
+   {
+    "title": "🐾 Cats Dataset",
+    "description": "This dataset provides detailed information on 1000 cats, offering a comprehensive look at various feline characteristics. The data includes multiple attributes such as breed, age, weight, color, and gender. ",
+    "link": "https://www.kaggle.com/datasets/waqi786/cats-dataset"
+  },
+   {
+    "title": "🐶 Dogs Dataset - 3000 Records 🐾",
+    "description": "This dataset provides detailed information on 3000 dogs, including various breeds, ages, weights, colors, and genders. It offers a rich resource for analyzing canine characteristics and can be used for machine learning projects, data analysis, and visualization tasks related to dogs.",
+    "link": "https://www.kaggle.com/datasets/waqi786/dogs-dataset-3000-records"
+  },
+   {
+    "title": "covid-19 confirmed cases",
+    "description": "This dataset offers a detailed view of confirmed COVID-19 cases globally. It includes daily and cumulative case counts from various regions, sourced from reliable health organizations and government reports",
+    "link": "https://www.kaggle.com/datasets/rasikasrimal/covid-19-confirmed-cases"
+  },
+  {
+    "title": "Crop Yield Data India",
+    "description": "This dataset contains detailed information on crop yields across various states in India for the year 1997. It includes data on different crops, their production, area under cultivation, season of cultivation, and state-specific information.",
+    "link": "https://www.kaggle.com/datasets/saincoder404/crop-yield-data-india"
+  },
+   {
+    "title": "Amazon Sales Data",
+    "description": "This dataset contains a 100 rows of sales data for Amazon, including the region, country, item type, sales channel, order priority, order date, order ID, ship date, units sold, unit price, unit cost, total revenue, total cost, and total profit.",
+    "link": "https://www.kaggle.com/datasets/mithilesh9/amazon-sales-data-analysis"
+  },
+   {
+    "title": "ICC Mens T20 World Cup 2024 Stats",
+    "description": "This dataset contains detailed statistics from the ICC Men's T20 World Cup 2024. It includes match results, batting statistics of all players, and bowling statistics of all players.",
+    "link": "https://www.kaggle.com/datasets/arindamsahoo/icc-mens-t20-world-cup-2024-stats"
+  },
+  {
+    "title": "Product Sales Dataset",
+    "description": "The fastest-growing segments were Government and Small Businesses, each showing an increase of $4 million.
+Sales of the Carretera product increased by 328%, making it the highest-growing product, while sales of the Montana product declined by 36%",
+    "link": "https://www.kaggle.com/datasets/anuchhetry/product-sales"
+  },
+
+{
+    "title": "2024 UK Election Provisional Panel Dataset",
+    "description": "The British Election Study team is pleased to announce the release of the 2024 Election Provisional Panel Dataset, which includes Wave 26 of the Internet Panel survey.",
+    "link": "https://www.kaggle.com/datasets/shayanshahid997/2024-uk-election-provisional-panel-dataset"
+  },
+ {
+    "title": "Fertility and Death Rate Dataset",
+    "description": "HData was sourced from reputable international organizations such as the World Bank and the United Nations Development Programme (UNDP). ",
+    "link": "https://www.kaggle.com/datasets/suganths/fertility-and-death-rate-dataset"
+  },
+{
+    "title": "Online Food Dataset",
+    "description": "The dataset contains information collected from an online food ordering platform over a period of time. It encompasses various attributes related to Occupation, Family Size, Feedback etc..",
+    "link": "https://www.kaggle.com/datasets/sudarshan24byte/online-food-dataset"
   }
 ]
