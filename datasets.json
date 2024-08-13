@@ -30,22 +30,22 @@
     "link": "https://www.kaggle.com/datasets/jocelyndumlao/water-energy-food-land-climate-nexus-data"
   },
    {
-    "title": "Paris Olympics 2024 Games Dataset (updated daily)"
+    "title": "Paris Olympics 2024 Games Dataset (updated daily)",
     "description": "Updated daily as soon as updated are received from Olympics",
     "link": "https://www.kaggle.com/datasets/sajkazmi/paris-olympics-2024-games-dataset-updated-daily"
   },
   {
-    "title": "Heart Disease Prediction"
+    "title": "Heart Disease Prediction",
     "description": "The data includes various attributes such as age, sex, chest pain type (cp), resting blood pressure (trestbps), cholesterol (chol), fasting blood sugar (fbs), resting electrocardiographic results (restecg), maximum heart rate achieved (thalach), exercise-induced angina (exang), and ST depression induced by exercise relative to rest (oldpeak).",
     "link": "https://www.kaggle.com/datasets/krishujeniya/heart-diseae"
   },
    {
-    "title": "Global Electric Vehicle Sales Data (2010-2024)"
+    "title": "Global Electric Vehicle Sales Data (2010-2024)",
     "description": "Electric vehicles (EVs) have seen a remarkable evolution from their early innovations to their current status as a pivotal element in the transportation industry. This document explores the rich history of electric vehicles, focusing on their development through various periods, and provides an overview of the different types of EVs available today.",
     "link": "https://www.kaggle.com/datasets/muhammadehsan000/global-electric-vehicle-sales-data-2010-2024"
   },
   {
-    "title": "Stanford Question Answering Dataset
+    "title": "Stanford Question Answering Dataset",
     "description": "The Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset consisting of questions posed by crowdworkers on a set of Wikipedia articles. The answer to every question is a segment of text, or span, from the corresponding reading passage. There are 100,000+ question-answer pairs on 500+ articles.",
     "link": "https://www.kaggle.com/datasets/stanfordu/stanford-question-answering-dataset"
   },
