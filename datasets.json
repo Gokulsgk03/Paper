@@ -49,11 +49,7 @@
     "description": "The Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset consisting of questions posed by crowdworkers on a set of Wikipedia articles. The answer to every question is a segment of text, or span, from the corresponding reading passage. There are 100,000+ question-answer pairs on 500+ articles.",
     "link": "https://www.kaggle.com/datasets/stanfordu/stanford-question-answering-dataset"
   },
-  {
-    "title": "Sentimental analysis - Movie review",
-    "description": "This dataset "Kalki 2898 AD" contains comments and ratings of various viewers who enjoyed the movie in recent times.",
-    "link": "https://www.kaggle.com/datasets/sudarsan27/sentimental-analysis-movie-review"
-  },
+
   {
     "title": "IMDb Summer Movies Data",
     "description": "This dataset includes information on movies released during the summer months, typically regarded as the peak season for blockbuster films. The data has been sourced from IMDb, featuring key details such as movie titles, release dates, genres, directors, cast, and IMDb ratings.",
