@@ -1,6 +1,6 @@
 {
     "plag_reduction_price": 750,
-    "thesis_writing_price": 10000,
+    "thesis_writing_price": 20000,
     "patent_writing_price": 3000,
     "plag_checker_price": 59,
     "research_paper_writing_price": 2000,
@@ -19,7 +19,7 @@
         },
         "thesis_writing_discount": {
             "active": true,
-            "percent": 50
+            "percent": 10
         },
         "patent_writing_discount": {
             "active": false,
