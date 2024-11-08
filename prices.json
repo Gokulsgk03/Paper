@@ -1,16 +1,16 @@
 {
     "plag_reduction_price": 950,
-    "thesis_writing_price": 35000,
+    "thesis_writing_price": 42000,
     "patent_writing_price": 3000,
     "plag_checker_price": 59,
-    "research_paper_writing_price": 2000,
+    "research_paper_writing_price": 2500,
     "book_chapter_writing_price": 3500,
     "phd_work_with_thesis_price": 1000,
     "project_report_making_price": 3000,
     "presentation_making_price": 900,
-    "project_video_making_price": 1050,
+    "project_video_making_price": 2000,
     "paper_correction_price": 760,
-    "business_pitch_maker_price": 700,
+    "business_pitch_maker_price": 800,
     
     "discounts": {
         "plag_reduction_discount": {
