@@ -1,0 +1,18 @@
+{
+  "papers": [
+    {
+      "titleId": "j2NIhmzMtPE5H",
+      "title": "Sample Research Paper",
+      "pricing": "100",
+      "journal": "Science Journal",
+      "availableSlots": 4
+    },
+    {
+      "titleId": "d5RT7xnMzR8Y",
+      "title": "Another Research Paper",
+      "pricing": "120",
+      "journal": "Medical Journal",
+      "availableSlots": 3
+    }
+  ]
+}
