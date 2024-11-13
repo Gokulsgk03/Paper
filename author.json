@@ -3,14 +3,21 @@
     {
       "titleId": "j2NIhmzMtPE5H",
       "title": "Sample Research Paper",
-      "pricing": "100",
+      "pricing": "2000",
       "journal": "Science Journal",
       "availableSlots": 4
     },
     {
       "titleId": "d5RT7xnMzR8Y",
       "title": "Another Research Paper",
-      "pricing": "120",
+      "pricing": "2120",
+      "journal": "Medical Journal",
+      "availableSlots": 3
+    },
+    {
+      "titleId": "d5RT7xnMzR8Y",
+      "title": "AI Machine Learning BFO For Kidney Stone Prediction with 90% Accuarcy",
+      "pricing": "5000",
       "journal": "Medical Journal",
       "availableSlots": 3
     }
