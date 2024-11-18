@@ -1,75 +1,54 @@
 {
   "trending_topics": [
     {
-      "topic": "Artificial Intelligence",
-      "keywords": ["#Machine Learning", "#Neural Networks", "#Deep Learning"],
-      "link": "https://www.jair.org/index.php/jair"
+      "topic": "Metaverse",
+      "keywords": ["#Virtual Reality", "#Augmented Reality", "#Digital Avatars"],
+      "link": "https://www.sciencedirect.com/science/article/pii/S095741742201234X"
     },
     {
-      "topic": "Climate Change",
-      "keywords": ["#Global Warming", "#Renewable Energy", "#Sustainability"],
-      "link": "https://www.nature.com/subjects/climate-change/srep"
+      "topic": "Sustainable Agriculture",
+      "keywords": ["#Precision Farming", "#Agroecology", "#Soil Health"],
+      "link": "https://www.frontiersin.org/journals/sustainable-food-systems"
     },
     {
-      "topic": "COVID-19 Pandemic",
-      "keywords": ["#Vaccines", "#Epidemiology", "#Public Health"],
-      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10244837/"
+      "topic": "Mental Health Awareness",
+      "keywords": ["#Psychology", "#Therapy", "#Mindfulness"],
+      "link": "https://www.sciencedirect.com/journal/journal-of-affective-disorders"
     },
     {
-      "topic": "Blockchain Technology",
-      "keywords": ["#Cryptocurrency", "#Smart Contracts", "#Decentralization"],
-      "link": "https://www.diva-portal.org/smash/get/diva2:1365314/FULLTEXT01.pdf"
+      "topic": "Electric Vehicles",
+      "keywords": ["#Battery Technology", "#EV Charging", "#Sustainable Transport"],
+      "link": "https://www.nature.com/articles/s41560-023-01101-9"
     },
     {
-      "topic": "Cybersecurity",
-      "keywords": ["#Data Protection", "#Hacking", "#Network Security"],
-      "link": "https://academic.oup.com/cybersecurity/article/10/1/tyae013/7723878?searchresult=1"
+      "topic": "Green Buildings",
+      "keywords": ["#Energy Efficiency", "#Eco-friendly Materials", "#LEED Certification"],
+      "link": "https://www.mdpi.com/journal/sustainability"
     },
     {
-      "topic": "Quantum Computing",
-      "keywords": ["#Quantum Mechanics", "#Qubits", "#Quantum Algorithms"],
-      "link": "hhttps://www.techscience.com/journal/jqc"
+      "topic": "Digital Ethics",
+      "keywords": ["#AI Ethics", "#Data Privacy", "#Algorithmic Bias"],
+      "link": "https://www.cambridge.org/core/journals/ethics-and-information-technology"
     },
     {
-      "topic": "Biotechnology",
-      "keywords": ["#Genetic Engineering", "#CRISPR", "#Biopharmaceuticals"],
-      "link": "https://www.sciencedirect.com/journal/journal-of-biotechnology"
+      "topic": "Advanced Robotics",
+      "keywords": ["#Autonomous Systems", "#Swarm Robotics", "#Humanoid Robots"],
+      "link": "https://www.ijrr.org/"
     },
     {
-      "topic": "Space Exploration",
-      "keywords": ["#Mars Mission", "#SpaceX", "#Astrobiology"],
-      "link": "https://www.tsijournals.com/journals/journal-of-space-exploration.html"
+      "topic": "EdTech Innovation",
+      "keywords": ["#Online Learning", "#Gamified Education", "#AI Tutors"],
+      "link": "https://journals.sagepub.com/home/edr"
     },
     {
-      "topic": "Renewable Energy",
-      "keywords": ["#Solar Power", "#Wind Energy", "#Hydroelectricity"],
-      "link": "https://www.renewableenergyworld.com/"
+      "topic": "Sustainable Tourism",
+      "keywords": ["#Eco-tourism", "#Cultural Preservation", "#Carbon Offsetting"],
+      "link": "https://www.sciencedirect.com/journal/journal-of-sustainable-tourism"
     },
     {
-      "topic": "Smart Cities",
-      "keywords": ["#Urban Planning", "#IoT", "#Sustainable Development"],
-      "link": "https://www.mdpi.com/2624-6511/6/4/80"
-    },
-    {
-      "topic": "E-commerce",
-      "keywords": ["#Online Shopping", "#Digital Marketing", "#Payment Systems"],
-      "link": "https://www.researchgate.net/publication/376397568_A_review_paper_on_e-commerce"
-    },
-    {
-      "topic": "Digital Transformation",
-      "keywords": ["#Industry 4.0", "#Cloud Computing", "#Automation"],
-      "link": "https://www.sciencedirect.com/science/article/pii/S0268401221001596"
-    },
-    {
-      "topic": "Healthcare Innovation",
-      "keywords": ["#Telemedicine", "#Health Tech", "#Personalized Medicine"],
-      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6502619/"
-    },
-   
-    {
-      "topic": "Financial Technology (FinTech)",
-      "keywords": ["#Digital Payments", "#Blockchain", "#Robo-Advisors"],
-      "link": "https://jfin-swufe.springeropen.com/articles/10.1186/s40854-021-00285-7"
+      "topic": "Augmented Reality in Retail",
+      "keywords": ["#AR Shopping", "#Customer Experience", "#Virtual Try-ons"],
+      "link": "https://www.sciencedirect.com/science/article/pii/S0957417421000145"
     }
   ]
 }
