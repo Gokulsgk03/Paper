@@ -1,24 +1,30 @@
 [
     {
         "title": "Comprehensive review on the uber system",
-        "description": "This paper provides an in-depth analysis of the Uber system, exploring its impact on societal norms and its disruptive influence on traditional transportation and employment sectors. It critically examines the challenges, benefits, and controversies associated with the Uber platform. ",
-        "imageURL": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/What_is_Alzheimer_s_Disease_fa85f9b7f5.jpg ",
+        "description": "This paper shows the content of the uber app that kills the most important thing in thes society jbthh ujhigiuhs ",
+        "imageURL": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/What_is_Alzheimer_s_Disease_fa85f9b7f5.jpg",
         "pdfURL": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Store/Dataset%20Description.pdf",
         "price": "1200"
     },
-
+    {
+        "title": "Research Paper 2",
+        "description": "Description of Paper 2",
+        "imageURL": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/What_is_Alzheimer_s_Disease_fa85f9b7f5.jpg",
+        "pdfURL": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Store/Comprehensive%20Survey%20on%20Face%20Spoof%20Detection%20Techniques.docx.pdf",
+        "price": "1250"
+    },
     {
         "title": "Comprehensive Survey on Face Spoof Detection Techniques",
         "description": "This research paper provides an in-depth survey of various techniques used for detecting face spoofing, covering methodologies, datasets, and challenges.",
         "imageURL": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/What_is_Alzheimer_s_Disease_fa85f9b7f5.jpg",
-        "pdfURL": "https://github.com/Gokulsgk03/Paper/blob/main/Store/Comprehensive%20Survey%20on%20Face%20Spoof%20Detection%20Techniques.docx.pdf",
-        "price": "1000"
+        "pdfURL": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Store/Comprehensive%20Survey%20on%20Face%20Spoof%20Detection%20Techniques.docx.pdf",
+        "price": "1300"
     },
     {
         "title": "Early Warning System for Epidemics Using ML-Enhanced Surveillance",
         "description": "This paper discusses a machine learning-enhanced surveillance system designed to provide early warnings for epidemic outbreaks, analyzing data patterns for predictions.",
         "imageURL": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Latestupdatesimages/What_is_Alzheimer_s_Disease_fa85f9b7f5.jpg",
-        "pdfURL": "https://github.com/Gokulsgk03/Paper/blob/main/Store/Early%20Warning%20System%20for%20Epidemics%20Using%20ML-Enhanced%20Surveillence.pdf",
+        "pdfURL": "https://raw.githubusercontent.com/Gokulsgk03/Paper/main/Store/Early%20Warning%20System%20for%20Epidemics%20Using%20ML-Enhanced%20Surveillence.pdf",
         "price": "1350"
     }
 ]
