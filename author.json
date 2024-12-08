@@ -2,107 +2,107 @@
   "papers": [
     {
       "titleId": "j2NIhmzMtPE5H",
-      "title": "Transformer Models and GRU Networks for AI-Driven Personalization in Smart Living Environments",
-      "pricing": "2000",
-      "journal": "AI and Smart Living Journal",
+      "title": "Algorithm Design and Optimization Techniques for AI-Driven Systems",
+      "pricing": "4100",
+      "journal": "Scopus",
       "availableSlots": 4
     },
     {
       "titleId": "d5RT7xnMzR8Y",
-      "title": "U-Net and Capsule Networks for Enhancing Urban Planning with Artificial Intelligence",
-      "pricing": "2500",
-      "journal": "Urban Innovation Journal",
+      "title": "Big Data Analytics for Predictive Modeling and Decision-Making in Smart Applications",
+      "pricing": "4500",
+      "journal": "Scopus",
       "availableSlots": 4
     },
     {
       "titleId": "y8LM4nzAtPQ9L",
-      "title": "CatBoost and Deep Q-Networks for Risk Assessment and Financial Predictive Modeling",
-      "pricing": "3000",
-      "journal": "Finance and AI Journal",
+      "title": "Cryptography and Secure Communication Frameworks for AI-Powered Networks",
+      "pricing": "5000",
+      "journal": "Scopus",
       "availableSlots": 3
     },
     {
       "titleId": "q9RT2xzLtPE6X",
-      "title": "InceptionResNet and Autoencoders in Healthcare AI: A Framework for Medical Diagnostics",
-      "pricing": "4000",
-      "journal": "Healthcare and AI Journal",
+      "title": "Mathematical Models in Network Theory for AI and Digital Applications",
+      "pricing": "5000",
+      "journal": "Scopus",
       "availableSlots": 3
     },
     {
       "titleId": "k6PN7xmCtQR2Y",
-      "title": "Swin Transformers and LightGBM in Environmental Monitoring for Smart Cities",
-      "pricing": "3500",
-      "journal": "Smart City Research Journal",
+      "title": "Applications of Graph Theory in Data Networks and Digital Transformations",
+      "pricing": "5000",
+      "journal": "Scopus",
       "availableSlots": 4
     },
     {
       "titleId": "a3NK9xzBtQE4H",
-      "title": "BiSeNet and Spectral Clustering for Advanced Image Analysis in Artificial Intelligence",
-      "pricing": "3200",
-      "journal": "AI Image Processing Journal",
+      "title": "Linear Algebra Methods for Robotics and AI System Development",
+      "pricing": "5000",
+      "journal": "Scopus",
       "availableSlots": 2
     },
     {
       "titleId": "r5RM2nmFtPQ8X",
-      "title": "AI-Powered Transportation Systems Using Capsule Networks and RNN-Based Models",
-      "pricing": "2800",
-      "journal": "Transportation and AI Journal",
+      "title": "Mathematical Foundations of Cryptographic Systems in Secure Communications",
+      "pricing": "4800",
+      "journal": "Scopus",
       "availableSlots": 3
     },
     {
       "titleId": "f7PL4xmDtQW7K",
-      "title": "Transformer-Based Language Models for Education and Adaptive Learning Systems",
-      "pricing": "2700",
-      "journal": "Educational AI Journal",
+      "title": "Algorithmic Advances in Big Data for Scalable Analytics and Insights",
+      "pricing": "4700",
+      "journal": "Scopus",
       "availableSlots": 3
     },
     {
       "titleId": "m8LK7xnGtQF9L",
-      "title": "GRU Networks and Temporal Data Analysis in AI-Powered Predictive Maintenance",
-      "pricing": "3100",
-      "journal": "Industrial AI Journal",
+      "title": "Graph Algorithms and Their Role in Network Theory Applications",
+      "pricing": "5100",
+      "journal": "Scopus",
       "availableSlots": 4
     },
     {
       "titleId": "p9TL6xzFtPE3X",
-      "title": "U-Net for Biomedical Image Segmentation and Diagnosis in Healthcare AI Applications",
-      "pricing": "2900",
-      "journal": "Medical Imaging Journal",
+      "title": "Secure Communication Protocols: Cryptographic Techniques for Digital Systems",
+      "pricing": "7900",
+      "journal": "Scopus",
       "availableSlots": 4
     },
     {
       "titleId": "g4PN2nmCtQE8H",
-      "title": "CatBoost in Energy Systems Optimization: AI Approaches for Efficient Resource Management",
-      "pricing": "3300",
-      "journal": "Energy and AI Journal",
+      "title": "Big Data and Machine Learning for Mathematical Modeling in Digital Applications",
+      "pricing": "4300",
+      "journal": "Scopus",
       "availableSlots": 3
     },
     {
       "titleId": "x7KM5xzDtQE2Y",
-      "title": "Deep Q-Networks for Intelligent Robotics in Autonomous Systems",
-      "pricing": "3700",
-      "journal": "Robotics and AI Journal",
+      "title": "Linear Algebra and Its Applications in AI-Driven Robotics",
+      "pricing": "4700",
+      "journal": "Scopus",
       "availableSlots": 3
     },
     {
       "titleId": "z9RM8xmEtPQ1K",
-      "title": "InceptionResNet for Agricultural AI: Crop Monitoring and Pest Control Using Deep Learning",
-      "pricing": "3400",
-      "journal": "Agricultural AI Journal",
+      "title": "Graph Theory-Based Solutions for Optimization in Digital Communication",
+      "pricing": "4400",
+      "journal": "Scopus",
       "availableSlots": 3
     },
     {
       "titleId": "h8KL9nmGtQE6L",
-      "title": "LightGBM for AI-Driven Decision Support Systems in Smart Manufacturing",
-      "pricing": "3600",
-      "journal": "Manufacturing and AI Journal",
+      "title": "Mathematical Models for Network Theories in AI and Robotics",
+      "pricing": "4600",
+      "journal": "Scopus",
       "availableSlots": 4
     },
     {
       "titleId": "b3PL7xmDtQE4H",
-      "title": "Swin Transformers for Natural Language Processing in AI-Powered Conversational Systems",
-      "pricing": "2500",
-      "journal": "NLP and AI Journal",
+      "title": "Cryptographic Innovations for Enhancing Secure Communication in AI Applications",
+      "pricing": "4500",
+      "journal": "Scopus",
       "availableSlots": 2
     }
   ]
